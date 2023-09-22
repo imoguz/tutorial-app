@@ -26,11 +26,15 @@ The Tutorial Application is a robust and user-friendly web-based tool built usin
 
 - **API**: The application leverages an API for data storage and updates, offering reliability and scalability.
 
+## Project GIF
+
+![Project Snapshot](./public/tutorialapp.gif)
+
 ## Demo
 
 You can access the live demo of the project using the following link:
 
-[Live Demo](https://portfolio-imoguz.vercel.app/)
+[Live Demo](https://tutorial-app-imoguz.vercel.app/)
 
 ## Contact
 
