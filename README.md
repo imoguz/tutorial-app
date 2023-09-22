@@ -1,6 +1,6 @@
 # Project Name
 
-PortFolio App
+Tutorial App
 
 ## Description
 
