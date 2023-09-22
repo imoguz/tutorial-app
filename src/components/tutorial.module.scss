@@ -1,0 +1,12 @@
+body {
+  background-image: url("../assets/tutorial-image.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.tablerow {
+  & > th:nth-child(1) {
+    width: 10px !important;
+  }
+}
